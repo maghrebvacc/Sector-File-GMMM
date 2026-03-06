@@ -1,0 +1,742 @@
+[
+   {
+      "icao": "GMMN",
+      "sids": {
+         "TOLSI": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "G5"
+               ]
+            }
+         ],
+         "LAKAM": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "R722"
+               ]
+            }
+         ],
+         "ODAXA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "H899"
+               ]
+            }
+         ],
+         "RAVOL": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "H500"
+               ]
+            }
+         ],
+         "VONCI": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G5"
+               ]
+            }
+         ],
+         "NIKZO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "R975"
+               ]
+            }
+         ],
+         "FOBAC": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "R722"
+               ]
+            }
+         ],
+         "LACAJ": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "H119"
+               ]
+            }
+         ],
+         "SADIC": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "G850"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "A411"
+               ]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "GMMX",
+      "sids": {
+         "MABAP": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "R722"
+               ]
+            }
+         ],
+         "OBOGA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "OBOGA"
+               ]
+            }
+         ],
+         "MOKIR": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "J744"
+               ]
+            }
+         ],
+         "LISRA": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G850"
+               ]
+            }
+         ],
+         "MAGAV": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "B11"
+               ]
+            }
+         ]
+      }
+   },
+   {
+      "icao": "GMAD",
+      "sids": {
+         "AGALI": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "H400"
+               ]
+            }
+         ],
+         "MOGBA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "H300",
+				  "H400"
+               ]
+            }
+         ],
+         "BULOK": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G850"
+               ]
+            }
+         ],
+         "GOSPI": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G849"
+               ]
+            }
+         ],
+         "TEKNA": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "A600"
+               ]
+            }
+         ],
+         "ARSOL": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "R975"
+               ]
+            }
+         ],
+         "TIKVO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "TIKVO"
+               ]
+            }
+         ],
+         "KEGAG": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "V203"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G664"
+               ]
+            }
+         ],
+         "OLOMA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "G850"
+               ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMTT",
+      "sids": {
+         "ABIRO": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "N726"
+               ]
+            }
+         ],
+         "ADKIM": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "Z53"
+               ]
+            }
+         ],
+         "BARPA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "BARPA"
+               ]
+            }
+         ],
+         "LAMAD": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "M143"
+               ]
+            }
+         ],
+         "NARMI": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "N726"
+               ]
+            }
+         ],
+         "MADOV": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "M240"
+               ]
+            }
+         ],
+         "SOBMA": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "N10"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMME",
+      "sids": {
+         "TOLSI": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "G5"
+               ]
+            }
+         ],
+         "VARAS": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "A411"
+               ]
+            }
+         ],
+         "BISMI": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "B11",
+				  "R975"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMFO",
+      "sids": {
+         "ORSUP": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "A411"
+               ]
+            }
+         ],
+         "EVOXO": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G664"
+               ]
+            }
+         ],
+         "ROMOR": [
+            {
+               "direction": "ODD",
+               "airways": [
+                  "A411"
+               ]
+            }
+         ],
+         "VABSI": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "VABSI"
+              ]
+            }
+         ],
+         "DIGEX": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "W700"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMTN",
+      "sids": {
+         "TTN": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "ORTOP",
+				  "BANBA",
+                  "ADUBI",
+				  "ABIRO",
+                  "KORIS",
+				  "ADKIM",
+                  "LINTO",
+				  "BARBA",
+                  "GALTO",
+				  "PODES",
+                  "PEKOP",
+				  "BERUM",
+				  "ESAMI"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "ALM",
+                  "BARIS",
+                  "TOLSI",
+                  "IXODA",
+				  "FES"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMTA",
+      "sids": {
+         "ALM": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "ORTOP",
+				  "BANBA",
+                  "ADUBI",
+				  "ABIRO",
+                  "KORIS",
+				  "ADKIM",
+                  "LINTO",
+				  "BARBA",
+                  "GALTO",
+				  "PODES",
+                  "PEKOP",
+				  "BERUM",
+				  "ESAMI",
+				  "TTN"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "ARI",
+                  "BARIS",
+                  "TOLSI",
+                  "IXODA",
+				  "FES",
+				  "BOKPA"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMMW",
+      "sids": {
+         "ARI": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "ORTOP",
+				  "BANBA",
+                  "ADUBI",
+				  "ABIRO",
+                  "KORIS",
+				  "ADKIM",
+                  "LINTO",
+				  "BARBA",
+                  "GALTO",
+				  "PODES",
+                  "PEKOP",
+				  "BERUM",
+				  "ESAMI",
+				  "TTN",
+				  "ALM"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "OJD",
+                  "BARIS",
+                  "TOLSI",
+                  "IXODA",
+				  "FES",
+				  "BOKPA",
+				  "XAVOV"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMFF",
+      "sids": {
+         "FES": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "G850",
+				  "IPLOS",
+                  "VARAS",
+				  "POBUB"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "EMKOK",
+                  "IBEVO",
+                  "LEGTI",
+                  "NONVI"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMFB",
+      "sids": {
+         "BRF": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "W255",
+				  "H119",
+                  "L58",
+				  "XAVOV"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G664",
+                  "ARIAM",
+                  "AGREB"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMFI",
+      "sids": {
+         "IFN": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "G850",
+				  "IPLOS",
+                  "VARAS",
+				  "POBUB",
+				  "FES"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "EMKOK",
+                  "IBEVO",
+                  "LEGTI",
+                  "NONVI"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMFK",
+      "sids": {
+         "KSR": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "M240",
+				  "H119"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "L102",
+                  "G664",
+                  "BCR"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMMZ",
+      "sids": {
+         "ORZ": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "LARAP",
+				  "V203",
+				  "W900",
+				  "J744"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "G664",
+                  "ZAG"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMAZ",
+      "sids": {
+         "ZAG": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "ORZ",
+				  "KSR",
+				  "LARAP",
+				  "TOBZA"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "ADM",
+                  "HKI"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMMI",
+      "sids": {
+         "ESS": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "R724",
+				  "BARAM",
+				  "B11"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "R724",
+                  "NISUR",
+				  "H300"
+              ]
+            }
+         ],
+         "MGR": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "R724",
+				  "BARAM",
+				  "B11"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "R724",
+                  "NISUR",
+				  "H300"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMAG",
+      "sids": {
+         "GLM": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "DIDAN",
+				  "AMLOK",
+				  "RATNI",
+				  "BABNA",
+				  "SOMOM",
+				  "DOGAN",
+				  "RATNI"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "TDF",
+                  "ECHED",
+				  "SOLNA",
+				  "TNA",
+				  "RUSIK",
+				  "DEVLA",
+				  "KORAL"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMAT",
+      "sids": {
+         "TNA": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "DIDAN",
+				  "AMLOK",
+				  "RATNI",
+				  "BABNA",
+				  "SOMOM",
+				  "DOGAN",
+				  "RATNI",
+				  "TNA"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "ECHED",
+				  "SOLNA",
+				  "TNA",
+				  "RUSIK",
+				  "DEVLA",
+				  "KORAL"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMML",
+      "sids": {
+         "LAY": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "A600",
+				  "R975",
+				  "SOLNA",
+				  "ECHED"
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "COSTI",
+				  "Q279",
+				  "Z967",
+				  "SAWBA",
+				  "GIRAL"
+              ]
+            }
+         ]
+      }
+   },
+   {"icao": "GMMH",
+      "sids": {
+         "DKH": [
+            {
+               "direction": "EVEN",
+               "airways": [
+                  "GITEM0",
+				  "DISMA",
+				  "M660",
+				  "BIPET",
+				  "CABEL",
+				  "LIMAL"
+				  
+               ]
+            },
+            {
+               "direction": "ODD",
+               "airways": [
+                  "LOLOS",
+				  "MIYEC"
+               ]
+            }
+         ]
+      }
+   }
+]

@@ -1,0 +1,6 @@
+{
+    "weather":{
+        "url":"https://weather.vatsim.ma/api/regions/GMMM/wx",
+        "update":30
+    }
+}

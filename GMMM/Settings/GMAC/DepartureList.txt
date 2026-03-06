@@ -1,0 +1,25 @@
+DEP
+m_Visible:0
+m_X:0
+m_Y:45
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:2
+m_HeaderOnly:0
+m_Column:ADEP:5:1:10007:1001:39:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column: C/S:9:0:10021:6:39:1:TopSky plugin:TopSky plugin:TopSky plugin:4:0.0
+m_Column:R:3:1:63:0:0:1::::4:0.0
+m_Column:TYPE:6:1:10028:0:0:1:TopSky plugin:::4:0.0
+m_Column:ATD:6:1:10054:93:92:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:ADES:5:1:10008:1001:39:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:RWY:5:1:10050:19:19:1:TopSky plugin:::1:0.0
+m_Column:SID:8:0:10011:17:17:1:TopSky plugin:::1:0.0
+m_Column:EFS:6:1:59:28:28:1::::1:0.0
+m_Column:SID:5:1:10045:1001:99:1:TopSky plugin:TopSky plugin:TopSky plugin:0:0.0
+m_Column:SSR:5:1:10042:62:62:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column::2:1:10046:27:0:1:TopSky plugin:::1:0.0
+m_Column:LEVEL:5:1:10049:109:59:1:TopSky plugin:TopSky plugin:TopSky plugin:1:0.0
+m_Column:HDG:5:1:10060:96:0:1:TopSky plugin:TopSky plugin::1:0.0
+m_Column:STUP:5:1:12:106:0:1:CDM Plugin:CDM Plugin::0:0.0
+m_Column:ROLE:5:1:10061:20:42:1:TopSky plugin::TopSky plugin:0:0.0
+END

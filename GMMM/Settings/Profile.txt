@@ -1,0 +1,202 @@
+PROFILE
+PROFILE:<initials>_OBS:350:0
+ATIS2:Maghreb vACC Observer
+ATIS3:
+ATIS4:
+PROFILE:GMAD_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Agadir Information on 127.750 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMAD_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Agadir Information on 127.750 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMAG_APP:150:5
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMAG_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMAT_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMAZ_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFB_APP:150:5
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFB_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFF_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Fes Information on 127.800 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFF_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Fes Information on 127.800 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFI_TWR:50:50
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFK_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFO_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Oujda Information on 121.600 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMFO_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Oujda Information on 121.600 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMB_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMD_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMME_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Rabat Information on 127.700 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMME_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Rabat Information on 127.700 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMH_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Dakhla Information on 118.025 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMH_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Dakhla Information on 118.025 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMI_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Essaouira Information on 118.350 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMI_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Essaouira Information on 118.350 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMML_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Laayoune Information on 136.275 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMML_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Laayoune Information on 136.275 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMM_CTR:350:6
+ATIS2:$radioname - CPDLC [GMMM]
+ATIS3:Covering the Casablanca CTA.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMM_ALL_CTR:350:6
+ATIS2:$radioname - CPDLC [GMXX]
+ATIS3:Covering the entire Casablanca FIR
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMM_E_CTR:350:6
+ATIS2:$radioname - CPDLC [GMEA]
+ATIS3:Covering GMFB/GMFF/GMFI/GMFK/GMFM/GMFO/GMFZ/GMMW/GMTA
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMM_N_CTR:350:6
+ATIS2:$radioname - CPDLC [GMNO]
+ATIS3:Covering GMMB/GMME/GMMJ/GMMN/GMMT/GMTN/GMTT
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMM_NE_CTR:350:6
+ATIS2:$radioname - CPDLC [GMNE]
+ATIS3:Covering GMFB/GMFF/GMFI/GMFK/GMFM/GMFO/GMFZ/GMMB/GMME/GMMJ/GMMN/GMMT/GMMW/GMTA/GMTN/GMTT
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMM_S_CTR:350:6
+ATIS2:$radioname - CPDLC [GMSO]
+ATIS3:Covering GMAD/GMAG/GMAT/GMAZ/GMMD/GMMH/GMMI/GMML/GMMX/GMMZ
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMM_W_CTR:350:6
+ATIS2:$radioname - CPDLC [GMWE]
+ATIS3:Covering GMMD/GMMX/GMMZ
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMN_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Mohammed V Information on 126.300 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMN_CTR:350:6
+ATIS2:$radioname
+ATIS3:Monitor Mohammed V Information on 126.300 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMN_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Mohammed V Information on 126.300 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMN_GND:20:3
+ATIS2:$radioname
+ATIS3:Monitor Mohammed V Information on 126.300 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMN_P_GND:20:3
+ATIS2:$radioname
+ATIS3:Check your LIVE SLOT at www.vats.im/vdgs
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMN_DEL:20:2
+ATIS2:$radioname
+ATIS3:Monitor Mohammed V Information on 126.300 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMT_TWR:50:4
+ATIS2:$radioname
+ATIS3:No Information available.
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMW_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Nador Information on 125.000 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMX_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Marrakesh Information on 121.950 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMX_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Marrakesh Information on 121.950 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMX_GND:20:3
+ATIS2:$radioname
+ATIS3:Monitor Marrakesh Information on 121.950 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMX_DEL:20:2
+ATIS2:$radioname
+ATIS3:Monitor Marrakesh Information on 121.950 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMZ_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Ouarzazate Information on 118.800 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMZ_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Ouarzazate Information on 118.800 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMTA_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Al Hoceima Information on 118.250 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMTN_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Tetouan Information on 124.800 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMTT_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Tangier Information on 123.700 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMTT_TWR:50:4
+ATIS2:$radioname
+ATIS3:Monitor Tangier Information on 123.700 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
+END

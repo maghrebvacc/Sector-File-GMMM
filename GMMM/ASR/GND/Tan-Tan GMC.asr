@@ -1,0 +1,43 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GMAT:name
+Airports:GMAT:symbol
+Geo:GEO:
+Geo:GMMM Landmark Coastline:
+Runways:GMAT 03-21:centerline
+Runways:GMAT 03-21:extended centerline 1
+Runways:GMAT 03-21:extended centerline 1 left base
+Runways:GMAT 03-21:extended centerline 1 left ticks
+Runways:GMAT 03-21:extended centerline 1 left vectoring
+Runways:GMAT 03-21:extended centerline 1 right base
+Runways:GMAT 03-21:extended centerline 1 right ticks
+Runways:GMAT 03-21:extended centerline 1 right vectoring
+Runways:GMAT 03-21:extended centerline 2
+Runways:GMAT 03-21:extended centerline 2 left base
+Runways:GMAT 03-21:extended centerline 2 left ticks
+Runways:GMAT 03-21:extended centerline 2 left vectoring
+Runways:GMAT 03-21:extended centerline 2 right base
+Runways:GMAT 03-21:extended centerline 2 right ticks
+Runways:GMAT 03-21:extended centerline 2 right vectoring
+Runways:GMAT 03-21:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:28.436211:-11.188412:28.459515:-11.138247
+PLUGIN:Ground Radar plugin:AirportElevation:653
+PLUGIN:Ground Radar plugin:AirportRadius:2.1
+PLUGIN:Ground Radar plugin:GroundMode:GMAT
+PLUGIN:TopSky plugin:NoDraw:1

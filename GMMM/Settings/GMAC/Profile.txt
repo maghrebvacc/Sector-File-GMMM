@@ -1,0 +1,34 @@
+PROFILE
+PROFILE:<initials>_OBS:350:0
+ATIS2:Maghreb vACC Observer
+ATIS3:
+ATIS4:
+PROFILE:GMAC_CTR:350:6
+ATIS2:$radioname - CPDLC [GMAC]
+ATIS3:Covering the Agadir CTA.
+ATIS4:Charts, feedback & more -> vatsim.ma
+PROFILE:GMAC_O_CTR:350:6
+ATIS2:$radioname - CPDLC [GMAO]
+ATIS3:Covering the Oceanic sectors of the Agadir CTA.
+ATIS4:Charts, feedback & more -> vatsim.ma
+PROFILE:GMAC_W_CTR:350:6
+ATIS2:$radioname - CPDLC [GMAW]
+ATIS3:Covering the West sectors of the Agadir CTA.
+ATIS4:Charts, feedback & more -> vatsim.ma
+PROFILE:GMAC_ON_CTR:350:6
+ATIS2:$radioname - CPDLC [GMON]
+ATIS3:Covering the Oceanic North sector.
+ATIS4:Charts, feedback & more -> vatsim.ma
+PROFILE:GMAC_OS_CTR:350:6
+ATIS2:$radioname - CPDLC [GMOS]
+ATIS3:Covering the Oceanic South sector.
+ATIS4:Charts, feedback & more -> vatsim.ma
+PROFILE:GMAC_WN_CTR:350:6
+ATIS2:$radioname - CPDLC [GMWN]
+ATIS3:Covering the West - North sector.
+ATIS4:Charts, feedback & more -> vatsim.ma
+PROFILE:GMAC_WS_CTR:350:6
+ATIS2:$radioname - CPDLC [GMWS]
+ATIS3:Covering the West - South sector.
+ATIS4:Charts, feedback & more -> vatsim.ma
+END

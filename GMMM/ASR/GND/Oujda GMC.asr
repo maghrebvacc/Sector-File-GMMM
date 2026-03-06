@@ -1,0 +1,61 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GMFO:name
+Airports:GMFO:symbol
+Regions:GMAD Agadir:polygon
+Regions:GMME Rabat:polygon
+Regions:GMMN Casablanca:polygon
+Regions:GMMX Marrakech:polygon
+Runways:GMFO 06-24:centerline
+Runways:GMFO 06-24:extended centerline 1
+Runways:GMFO 06-24:extended centerline 1 left base
+Runways:GMFO 06-24:extended centerline 1 left ticks
+Runways:GMFO 06-24:extended centerline 1 left vectoring
+Runways:GMFO 06-24:extended centerline 1 right base
+Runways:GMFO 06-24:extended centerline 1 right ticks
+Runways:GMFO 06-24:extended centerline 1 right vectoring
+Runways:GMFO 06-24:extended centerline 2
+Runways:GMFO 06-24:extended centerline 2 left base
+Runways:GMFO 06-24:extended centerline 2 left ticks
+Runways:GMFO 06-24:extended centerline 2 left vectoring
+Runways:GMFO 06-24:extended centerline 2 right base
+Runways:GMFO 06-24:extended centerline 2 right ticks
+Runways:GMFO 06-24:extended centerline 2 right vectoring
+Runways:GMFO 06-24:name
+Runways:GMFO 13-31:centerline
+Runways:GMFO 13-31:extended centerline 1
+Runways:GMFO 13-31:extended centerline 1 left base
+Runways:GMFO 13-31:extended centerline 1 left ticks
+Runways:GMFO 13-31:extended centerline 1 left vectoring
+Runways:GMFO 13-31:extended centerline 1 right base
+Runways:GMFO 13-31:extended centerline 1 right ticks
+Runways:GMFO 13-31:extended centerline 1 right vectoring
+Runways:GMFO 13-31:extended centerline 2
+Runways:GMFO 13-31:extended centerline 2 left base
+Runways:GMFO 13-31:extended centerline 2 left ticks
+Runways:GMFO 13-31:extended centerline 2 left vectoring
+Runways:GMFO 13-31:extended centerline 2 right base
+Runways:GMFO 13-31:extended centerline 2 right ticks
+Runways:GMFO 13-31:extended centerline 2 right vectoring
+Runways:GMFO 13-31:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:34.777097:-1.983273:34.814627:-1.902484
+PLUGIN:Ground Radar plugin:AirportElevation:207
+PLUGIN:Ground Radar plugin:AirportRadius:2.1
+PLUGIN:Ground Radar plugin:GroundMode:GMFO
+PLUGIN:TopSky plugin:NoDraw:1

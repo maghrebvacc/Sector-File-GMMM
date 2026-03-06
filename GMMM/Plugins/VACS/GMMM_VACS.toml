@@ -1,0 +1,84 @@
+[stations]
+selected_profile = "GMMM"
+
+[stations.profiles.GMMM]
+include = [
+    "GM*",
+    "GCCC_*",
+    "LPPC_*",
+    "LEMD_*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.GMMM.aliases]
+
+[stations.profiles.GMMX]
+include = [
+    "GMMX*",
+    "GMMM_*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.GMMX.aliases]
+
+[stations.profiles.GMMN]
+include = [
+    "GMMN*",
+    "GMMM_*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.GMMN.aliases]
+
+[stations.profiles.GMAD]
+include = [
+    "GMAD*",
+    "GMMM_*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.GMAD.aliases]

@@ -1,0 +1,83 @@
+Settings	SettingsfileSYMBOLOGY	\GMMM\Settings\Symbology.txt
+Settings	SettingsfileSTUP	\GMMM\Settings\StartupList.txt
+Settings	SettingsfileVOICE	\GMMM\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\GMMM\Settings\Profile.txt
+Settings	SettingsfileTAGS	\GMMM\Settings\Tags.txt
+Settings	SettingsfileSIL	\GMMM\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\GMMM\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\GMMM\Settings\DepartureList.txt
+Settings	SettingsfileARR	\GMMM\Settings\ArrivalList.txt
+Settings	SettingsfileFP	\GMMM\Settings\FPList.txt
+Settings	SettingsfilePLUGINS	\GMMM\Settings\Plugins.txt
+Settings	Settingsfile	\GMMM\Settings\General.txt
+Settings	SettingsfileSCREEN	\GMMM\Settings\Screen.txt
+Settings	SettingsfileCONFLICT	\GMMM\Settings\Conflict.txt
+Settings	SettingsfileVCCS	\GMMM\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\GMMM\Settings\VCCS.txt
+Settings	alias	\GMMM\Alias\alias.txt
+Settings	airlines	\GMMM\ICAO\ICAO_Airlines.txt
+Settings	airports	\GMMM\ICAO\ICAO_Airports.txt
+Settings	aircraft	\GMMM\ICAO\ICAO_Aircraft.txt
+Settings	airways	\GMMM\NavData\airway.txt
+Settings	airportcoords	\GMMM\NavData\icao.txt
+Settings	sector	\GMMM-Package_20260302173926-260201-0001.sct
+RecentFiles	Recent1	\GMMM\ASR\GMMM.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	256
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	atis_airport	GMMN
+LastSession	atis2	Maghreb vACC Observer
+LastSession	callsign	<initials>_OBS
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Sounds	Sound0	\GMMM\Sounds\Handoff Request.wav
+Sounds	Sound1	\GMMM\Sounds\Handoff Accept.wav
+Sounds	Sound2	\GMMM\Sounds\Conflict Alert.wav
+Sounds	Sound3	\GMMM\Sounds\Private Msg.wav
+Sounds	Sound4	\GMMM\Sounds\Private Msg.wav
+Sounds	Sound9	\GMMM\Sounds\Connect.wav
+Sounds	Sound10	\GMMM\Sounds\Disconnect.wav
+Sounds	Sound11	\GMMM\Sounds\ongoing_request.wav
+Sounds	Sound12	\GMMM\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\GMMM\Sounds\ongoing_refused.wav
+Sounds	Sound14	\GMMM\Sounds\ongoing_manual.wav
+Sounds	Sound15	\GMMM\Sounds\new_atis.wav
+Sounds	Sound16	\GMMM\Sounds\handoff_refused.wav
+Sounds	Sound17	\GMMM\Sounds\pointout.wav
+Sounds	Sound18	\GMMM\Sounds\startup_silent.wav
+Plugins	Plugin0	\GMMM\Plugins\TopSky\TopSky.dll
+Plugins	Plugin1	\GMMM\Plugins\GRplugin\GRplugin.dll
+Plugins	Plugin2	\GMMM\Plugins\MAESTRO\MAESTRO.dll
+Plugins	Plugin3	\GMMM\Plugins\AFV\AfvEuroScopeBridge.dll
+Plugins	Plugin4	\GMMM\Plugins\VCH\VCH.dll
+Plugins	Plugin5	\GMMM\Plugins\IASsure\IASsure.dll
+Plugins	Plugin6	\GMMM\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin7	\GMMM\Plugins\MAG\MAG.dll
+Plugins	Plugin8	\GMMM\Plugins\VFPC\VFPC.dll
+Plugins	Plugin9	\GMMM\Plugins\RDF\RDFPlugin.dll
+Plugins	Plugin10	\GMMM\Plugins\vACDM\MaghrebVACDM.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Ground Radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin0Display1	Ground Radar display
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600
+TeamSpeakVccs	TsVccsMiniControlX	1743
+TeamSpeakVccs	TsVccsMiniControlY	930
+ASRFastKeys	1	\GMMM\ASR\GMMM.asr
+ASRFastKeys	2	\GMMM\ASR\GND\Casablanca GMC.asr
+ASRFastKeys	3	\GMMM\ASR\GND\Marrakech GMC.asr
+ASRFastKeys	4	\GMMM\ASR\GND\Agadir GMC.asr
+ASRFastKeys	5	\GMMM\ASR\GND\Fes GMC.asr
+ASRFastKeys	6	\GMMM\ASR\GND\Rabat GMC.asr
+ASRFastKeys	7	\GMMM\ASR\GND\Tanger GMC.asr
+ASRFastKeys	8	\GMMM\ASR\GND\Oujda GMC.asr
+ASRFastKeys	9	\GMMM\ASR\GND\Laayoune GMC.asr
+LastSession	atis_freq4	118000
+Plugins	Plugin7Display0	Standard ES radar screen
