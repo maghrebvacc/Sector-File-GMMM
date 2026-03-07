@@ -131,6 +131,10 @@ PROFILE:GMMN_APP:150:5
 ATIS2:$radioname
 ATIS3:Monitor Mohammed V Information on 126.300 Mhz
 ATIS4:Charts, feedback & more -> vats.im/mag
+PROFILE:GMMN_F_APP:150:5
+ATIS2:$radioname
+ATIS3:Monitor Mohammed V Information on 126.300 Mhz
+ATIS4:Charts, feedback & more -> vats.im/mag
 PROFILE:GMMN_CTR:350:6
 ATIS2:$radioname
 ATIS3:Monitor Mohammed V Information on 126.300 Mhz
