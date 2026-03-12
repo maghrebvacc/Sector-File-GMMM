@@ -87,9 +87,9 @@ TAGITEM:69::0:1:2:32:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:71::0:0:0:104:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:150::0:1:18:99:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:54::0:0:14:45:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
-TAGITEM:47::0:1:15:71:TopSky plugin:5:1:TopSky plugin:TopSky plugin:1
-TAGITEM:56::0:1:16:0:TopSky plugin:10:1:TopSky plugin::1
+TAGITEM:1::0:0:14:45:CPegasusES:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:2::0:1:15:71:CPegasusES:5:1:TopSky plugin:TopSky plugin:1
+TAGITEM:3::0:1:16:0:CPegasusES:10:1:TopSky plugin::1
 TAGTYPE:3:0:0
 TAGITEM:40::1:0:0:0::0:1:::0
 TAGTYPE:4:0:0
@@ -231,9 +231,9 @@ TAGITEM:69::0:1:2:32:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:71::0:0:0:104:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:150::0:1:18:99:TopSky plugin:0:1::TopSky plugin:1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:54::0:1:14:45:TopSky plugin:0:1:TopSky plugin:TopSky plugin:1
-TAGITEM:47::0:1:15:71:TopSky plugin:5:1:TopSky plugin:TopSky plugin:1
-TAGITEM:56::0:1:16:0:TopSky plugin:10:1:TopSky plugin::1
+TAGITEM:1::0:1:14:45:CPegasusES:0:1:TopSky plugin:TopSky plugin:1
+TAGITEM:2::0:1:15:71:CPegasusES:5:1:TopSky plugin:TopSky plugin:1
+TAGITEM:3::0:1:16:0:CPegasusES:10:1:TopSky plugin::1
 TAGTYPE:18:26:1
 TAGITEM:1::0:0:8:0:TopSky plugin:0:1:TopSky plugin::1
 TAGITEM:109::0:1:0:0:TopSky plugin:0:1:::1
