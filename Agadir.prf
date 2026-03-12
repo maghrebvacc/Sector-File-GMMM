@@ -19,7 +19,7 @@ Settings	airports	\GMMM\ICAO\ICAO_Airports.txt
 Settings	aircraft	\GMMM\ICAO\ICAO_Aircraft.txt
 Settings	airways	\GMMM\NavData\airway.txt
 Settings	airportcoords	\GMMM\NavData\icao.txt
-Settings	sector	\GMMM-Package_20260302173926-260201-0001.sct
+Settings	sector	\GMMM-Test_20260312201609-260201-0003.sct
 LastSession	connecttype	0
 LastSession	facility	0
 LastSession	rating	0
@@ -51,7 +51,7 @@ Plugins	Plugin1	\GMMM\Plugins\MAESTRO\MAESTRO.dll
 Plugins	Plugin2	\GMMM\Plugins\AFV\AfvEuroScopeBridge.dll
 Plugins	Plugin3	\GMMM\Plugins\DiscordEuroscope\DiscordEuroscope.dll
 Plugins	Plugin4	\GMMM\Plugins\IASsure\IASsure.dll
-Plugins	Plugin5	\GMMM\Plugins\MAG\MAG.dll
+Plugins	Plugin5	\GMMM\Plugins\MAG\P21Euroscope.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin0Display1	Ground Radar display
 TeamSpeakVccs	Ts3DialogLeft	0
@@ -62,4 +62,3 @@ TeamSpeakVccs	TsVccsMiniControlX	1743
 TeamSpeakVccs	TsVccsMiniControlY	930
 RecentFiles	Recent1	\GMMM\ASR\GMAC.asr
 LastSession	atis_freq4	118000
-Plugins	Plugin5Display0	Standard ES radar screen
