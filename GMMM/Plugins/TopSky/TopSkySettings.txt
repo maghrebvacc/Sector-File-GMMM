@@ -158,6 +158,8 @@ Label_AHDG_HideDctIfCOPX=1
 Label_AHDG_ShowExtra=1
 Label_ASSR_AcceptPilotSquawk=0
 Label_CFL_DefaultValue=1
+Label_SI_FreqTime=5
+Label_SI_ShowFreq=1
 Label_CompCsCaps=1
 Label_Coord_RJC_Time=300
 Label_DAPs=1
@@ -169,8 +171,6 @@ Label_OpTextCaps=1
 Label_OPTEXT_MaxChars_List=7
 Label_OPTEXT2_MaxChars_List=7
 Label_Rev_Highlight_Delta_ETN=5
-Label_SI_FreqTime=3
-Label_SI_ShowFreq=1
 Label_Standard_MaxChars=30
 Label_TOG_Prefix=1
 
